@@ -6,7 +6,7 @@ Glitch combines a real time collaborative editing platform with a hosting servic
 
 In short, it's a place to create and host apps
 
-### How to set up glitch to work with Fatly. 
+### How to set up glitch to work with Fastly. 
 
 Using Glitch as an origin with Fastly is relatively easy. By default glitch creates a random subdomain for every app you create (EG: `https://solipsistic-horse.glitch.me`) however you can change that to whatever you want (EG: `https://tf-motd-demo.glitch.me`). 
 
